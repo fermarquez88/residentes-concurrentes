@@ -1,4 +1,4 @@
-### Relevamiento de condiciones laborales de residentes y concurrentes en Argentin
+### Relevamiento de condiciones laborales de residentes y concurrentes en Argentina
 
 #### Objetivos:
 1. Determinar las condiciones laborales de los Residentes y Concurrentes de toda Argentina para realizar un estudio descriptivo cuali y cuantitativo.
@@ -6,7 +6,7 @@
 
 #### Diseño y población: 
 
-Estudio observacional de cohorte retrospectiva de ....
+Estudio observacional de cohorte retrospectiva de residentes y concurrentes en Argentina.
 
 Criterios de inclusión: 
 - Titulo de grado médicos
