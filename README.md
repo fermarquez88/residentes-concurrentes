@@ -9,7 +9,7 @@
 Estudio observacional de cohorte retrospectiva de ....
 
 Criterios de inclusión: 
--Titulo de grado médicos
+- Titulo de grado médicos
 -
 
 Criterios de exclusión:
