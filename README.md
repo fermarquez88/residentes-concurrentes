@@ -13,7 +13,7 @@ Criterios de inclusión:
 -
 
 Criterios de exclusión:
--Residentes o concurrentes que no fuesen médicos
+- Residentes o concurrentes que no fuesen médicos
 
 #### Dataset: 
 
@@ -22,18 +22,16 @@ Los datos fueron extraídos de una encuesta de relevanvamiento sobre las condici
 #### Descripción de la encuesta: 
 En el mes de Diciembre de 2019 realizamos una encuesta online, voluntaria, publica y anónima para conocer la situación de los profesionales de la salud que formaban parte de un programa de Residencias o Concurrencias en Argentina.
 
-Variables extraídas de los datasets utilizados se encuentra en la lista 1 del anexo
-
-Variables socio-demográficas:
+##### Variables socio-demográficas:
 Edad: Mayores de 18 años
 Género: Masculino o femenino
 
-Variables clínicas:
+##### Variables clínicas:
 
-Materiales:
+#### Materiales:
 
-PHQ: 
-Cuestionario de calidad de vida OMS:
+- PHQ: 
+- Cuestionario de calidad de vida OMS:
 
 #### Definición de grupos:
 
