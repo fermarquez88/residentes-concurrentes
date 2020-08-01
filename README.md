@@ -61,9 +61,9 @@ Selección de variables:
 1. Se exploraron las diferencias de las variables (categóricas y numéricas) entre el Grupo EMCS y No EMCS y su independencia estadística (p < 0.05 en test Chi Cuadrado o Mann Mann-Whitney y Kruskall-Wallis)
 Se seleccionaron las variables al inicio y se redujo la cantidad de variables con un modelo de eliminación recursiva de variables con un Bosque aleatorio en las etapas que criterio médico fuese conveniente. Este método asigna un peso a cada una de las variables y las de pesos absolutos más pequeños se eliminan del conjunto. El procedimiento se repite de forma recursiva hasta obtener la variables más adecuadas34 para el modelo predictivo, pero no nos permite saber si la exhaustividad es mejor con 5 o 25 variables en total. Por este motivo realizamos una eliminación recursiva de variables con validación cruzada35 para obtener las mejores variables y el número más óptimo.
 2. Se analizó el coeficiente de correlación entre variables para valorar las interacción con la recuperación de la conciencia y las interacciones entre todas las variables del siguiente modo:
-Ordinales o numéricas:
-* Sin distribución normal: se utilizó coeficiente de correlación de Spearman
-* Con distribución normal: se utilizó coeficiente de correlación de Pearson
+* Ordinales o numéricas:
+** Sin distribución normal: se utilizó coeficiente de correlación de Spearman
+** Con distribución normal: se utilizó coeficiente de correlación de Pearson
 * Nominales o binarias: Se utilizó el coeficiente de V de Cramer.
 Se realizó la eliminación manual paso a paso de las variables con menor importancia de las que tuviesen una correlación casi perfecta (coeficiente de correlación >0.9), en un segundo paso con correlación fuerte (>0.7 y <0.9) y moderada (>0.5 y <0.7). 
 
