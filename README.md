@@ -61,7 +61,7 @@ Se seleccionaron las variables al inicio y se redujo la cantidad de variables co
   * Sin distribución normal: se utilizó coeficiente de correlación de Spearman
   * Con distribución normal: se utilizó coeficiente de correlación de Pearson
 * Nominales o binarias: Se utilizó el coeficiente de V de Cramer.
-Se realizó la eliminación manual paso a paso de las variables con menor importancia de las que tuviesen una correlación casi perfecta (coeficiente de correlación >0.9), en un segundo paso con correlación fuerte (>0.7 y <0.9) y moderada (>0.5 y <0.7). 
+ Se realizó la eliminación manual paso a paso de las variables con menor importancia de las que tuviesen una correlación casi perfecta (coeficiente de correlación >0.9), en un segundo paso con correlación fuerte (>0.7 y <0.9) y moderada (>0.5 y <0.7). 
 
 
 ##### Link a la encuesta: http://bit.ly/encuesta_anonima_residentes
